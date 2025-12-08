@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Allow: /
+
+Sitemap: https://spinandtension.github.io/sitemap.xml
