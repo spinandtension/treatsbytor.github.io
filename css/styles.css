@@ -11085,11 +11085,10 @@ body {
   height: 13rem;
   object-fit: cover;
   border-radius: 50%;
-  border: 3px solid var(--tbt-or);
   box-shadow: 0 10px 30px rgba(92, 42, 59, 0.18);
   flex-shrink: 0;
   margin-bottom: 0 !important;
-  margin-top: 0;
+  margin-top: .5rem;
 }
 .masthead-script {
   display: block;
